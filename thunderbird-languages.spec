@@ -1,3 +1,4 @@
+# PACKAGE MERGED INTO thunderbird.spec
 # TODO:
 #  - do something with *.rdf file, there is file conflict with other lang packages
 # UPDATING:
@@ -13,7 +14,7 @@ Summary:	Language packs for Thunderbird
 Summary(pl.UTF-8):	Pakiety językowe dla Thunderbirda
 Name:		thunderbird-languages
 Version:	52.3.0
-Release:	1
+Release:	1.1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/mozilla.org/thunderbird/releases/%{version}/linux-i686/xpi/ar.xpi
